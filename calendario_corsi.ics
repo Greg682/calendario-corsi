@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Convertitore Locale Settimanale//IT
-X-WR-CALNAME:Calendario Corsi Militari
+X-WR-CALNAME:Calendario Corsi RMAS
 BEGIN:VEVENT
 SUMMARY:Corso Basico
 DTSTART;VALUE=DATE:20260119
